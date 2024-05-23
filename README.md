@@ -1,8 +1,9 @@
-### Hello! I'm ParkJJuu 👋
 <h2 align="center">👋 Hello! I'm ParkJJuu. 😊</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://blog.naver.com/qkrwndus9898">Blog</a> 
+  <!--
+  • <a href="">LinkedIn</a>
+  -->
 </p>
 
 <!--
