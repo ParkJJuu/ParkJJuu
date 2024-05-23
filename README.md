@@ -1,5 +1,11 @@
 ### Hello! I'm ParkJJuu 👋
 
+<h2 align="center">👋 Hello! I'm Athul.</h2>
+<p align="center">
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
+
 <!--
 **ParkJJuu/ParkJJuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
