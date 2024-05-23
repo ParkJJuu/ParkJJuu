@@ -21,6 +21,11 @@
 - [Book review](https://blog.naver.com/qkrwndus9898/223375091368)
 <!-- BLOG-POST-LIST:END -->
 
+-------
+
+**🤸 About me**
+- I majored in computer software. And I'm currently aiming to become a network engineer
+
 <!-- Odds and ends
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ... 
