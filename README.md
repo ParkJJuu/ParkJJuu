@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Packet tracer, Linux, Wireshark, Communication Protocol
 - 🔍 I'm interested in Network, Security, IoT
 - 📫 How to reach me: [@jyp_user](https://www.instagram.com/jyp_user/) on Instagram
-- ⚡ Fun fact: I💜Nintendo Switch 🎮
+- ⚡ Fun fact: I💜Nintendo Switch Gaming 
 
 <!--
 
