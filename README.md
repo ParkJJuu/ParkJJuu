@@ -4,6 +4,11 @@
   <!-- • <a href="">LinkedIn</a> -->  
 </p>
 
+-------
+
+**🙋 About me**
+
+- 💻 I majored in computer software. And I'm currently aiming to become a network engineer
 - 🌱 I’m currently learning Packet tracer, Linux, Wireshark, Communication Protocol
 - 🔍 I'm interested in Network, Security, IoT
 - 📫 How to reach me: [@jyp_user](https://www.instagram.com/jyp_user/) on Instagram
@@ -20,11 +25,6 @@
 - [Certification review](https://blog.naver.com/qkrwndus9898/223453821571)
 - [Book review](https://blog.naver.com/qkrwndus9898/223375091368)
 <!-- BLOG-POST-LIST:END -->
-
--------
-
-**🙋 About me**
-- I majored in computer software. And I'm currently aiming to become a network engineer
 
 -------
 
