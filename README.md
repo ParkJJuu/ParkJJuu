@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&count_private=true" alt="ParkJJuu's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJJuu&hide=jupyter%20notebook,javascript&layout=compact" alt="Top Langs" width="420px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJJuu&hide=jupyter%20notebook,javascript&layout=compact" alt="Top Langs" width="220px" />
 </div>
 
 <!-- Odds and ends
