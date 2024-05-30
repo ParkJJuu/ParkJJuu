@@ -70,8 +70,8 @@
 **📊 My status**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&count_private=true" alt="ParkJJuu's github stats" width="450px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJJuu&hide=jupyter%20notebook,javascript&layout=compact" alt="Top Langs" width="370px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&count_private=true" alt="ParkJJuu's github stats" width="440px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJJuu&hide=jupyter%20notebook,javascript&layout=compact" alt="Top Langs" width="380px" />
 </div>
 
 <!-- Odds and ends
