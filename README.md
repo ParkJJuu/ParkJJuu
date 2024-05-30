@@ -24,6 +24,7 @@
 - [Network lab](https://blog.naver.com/qkrwndus9898/223436441707)
 - [Certification review](https://blog.naver.com/qkrwndus9898/223453821571)
 - [Book review](https://blog.naver.com/qkrwndus9898/223375091368)
+- [English conversation study](https://blog.naver.com/qkrwndus9898/223450983745)
 <!-- BLOG-POST-LIST:END -->
 
 -------
@@ -65,10 +66,23 @@
 
 -------
 
-### Portfolio
+**📊 My status**
 
-![ParkJJuu's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+![ParkJJuu's github stats](https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&theme=dracula&hide=stars,issues)
+![ParkJJuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&theme=dracula)
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 닉네임&show_icons=true&theme=스타일)
+![ParkJJuu's github stats](https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true)
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=merko)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=gruvbox)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=onedark)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
 
 <!-- Odds and ends
 Here are some ideas to get you started:
