@@ -69,11 +69,6 @@
 
 **📊 My status**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkJJuu&show_icons=true&count_private=true" alt="ParkJJuu's github stats" width="430px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJJuu&hide=jupyter%20notebook,javascript&layout=compact" alt="Top Langs" width="387px" />
-</div>
-
 <!-- Odds and ends
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ... 
