@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Goals for the first half of 2024](https://blog.naver.com/qkrwndus9898/223343764780)
 - [Network practice](https://blog.naver.com/qkrwndus9898/223441610870)
-- [Network lab](https://blog.naver.com/qkrwndus9898/223436441707)
+- [Network lab](https://blog.naver.com/qkrwndus9898/223464855116)
 - [Certification review](https://blog.naver.com/qkrwndus9898/223453821571)
 - [Book review](https://blog.naver.com/qkrwndus9898/223375091368)
 - [English conversation study](https://blog.naver.com/qkrwndus9898/223450983745)
