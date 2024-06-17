@@ -24,7 +24,7 @@
 - [Network lab](https://blog.naver.com/qkrwndus9898/223464855116)
 - [Certification review](https://blog.naver.com/qkrwndus9898/223453821571)
 - [Book review](https://blog.naver.com/qkrwndus9898/223375091368)
-- [English conversation study](https://blog.naver.com/qkrwndus9898/223450983745)
+- [English conversation study](https://blog.naver.com/qkrwndus9898/223474861141)
 <!-- BLOG-POST-LIST:END -->
 
 -------
